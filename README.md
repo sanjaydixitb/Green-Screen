@@ -1,0 +1,1 @@
+This Java application can be used to impose a selected background (multiple images in rotation if necessary) on selected images and make a movie of selected frame-rate.
